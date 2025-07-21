@@ -1,12 +1,12 @@
-**🚀 Project: Social Media Campaign Performance Tracker**
+# 🚀 Project: Social Media Campaign Performance Tracker
 
-**The Sparks Foundation - Data Science & Business Analytics Internship (GRIP)**
+## **The Sparks Foundation - Data Science & Business Analytics Internship (GRIP)**
 
-**📋 Introduction**
+## **📋 Introduction**
 This project was completed as a core task for the Data Science & Business Analytics Internship at The Sparks Foundation. The objective is to gain real-world exposure to how businesses evaluate the success of their advertising campaigns using performance data.
 The goal is to analyze a dataset of social media ad results and build an interactive dashboard that helps a marketing team understand campaign effectiveness and make data-driven decisions.
 
-**🎯 Task Overview: Track & Visualize Ad Performance**
+## **🎯 Task Overview: Track & Visualize Ad Performance**
 The main task was to work with a simulated CSV dataset from an ads manager (like Facebook or Instagram) to:
 
   =>Analyze key campaign performance metrics.
@@ -17,17 +17,17 @@ The main task was to work with a simulated CSV dataset from an ads manager (like
 
   =>Build a dashboard to visualize these insights and suggest improvements for future campaigns.
 
-**🗂️ Dataset Used**
+## **🗂️ Dataset Used**
 File: data.csv
 
 Source: A simulated social media ads performance dataset containing metrics such as impressions, clicks, cost, conversions, and demographic information (age, gender).
 
-**🛠️ Tool Used**
+## **🛠️ Tool Used**
 Google Looker Studio (formerly Data Studio)
 
 An interactive dashboard was built from scratch using Google Looker Studio to visualize the data and present the findings in a clear, easy-to-understand format.
 
-**✨ Dashboard Features**
+## **✨ Dashboard Features**
 The final Looker Studio dashboard includes:
 
 1. KPI Scorecards
@@ -53,12 +53,12 @@ The final Looker Studio dashboard includes:
 3. Interactive Filters
       The entire report can be filtered by Date Range, Campaign Name, Age, and Gender, allowing for deeper, more granular analysis.
 
-**🔗 How to View the Dashboard**
+## **🔗 How to View the Dashboard**
 
 The live, interactive dashboard can be accessed via the following link:
 https://lookerstudio.google.com/reporting/8b1c6131-ca85-41d8-bf67-72e0e31888d7
 
-**💡 Key Insights & Recommendations**
+## **💡 Key Insights & Recommendations**
 
    Top Performing Segments: The dashboard clearly identifies which age group and gender respond best to the ads, allowing for more targeted ad spend in the future.
 
